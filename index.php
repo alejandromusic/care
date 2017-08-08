@@ -33,8 +33,10 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="#feature">About</a></li>
-          <li><a href="#feature">Programs</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#programs">Programs</a></li>
+          <li><a href="#reviews">Rave Reviews</a></li>
+          <li><a href="#clients">Clients</a></li>
           <li><a href="#" data-target="#login" data-toggle="modal">Sign in</a></li>
           <li class="btn-trial"><a href="#footer">Subscribe</a></li>
         </ul>
@@ -57,17 +59,32 @@
                 Lee Tomlinson
                 delivering a Powerful TedX Talk
                 </h3>
-                <iframe id="vid" class="center-block"
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
                     title="0" src="https://player.vimeo.com/video/172051981?color=ffffff&title=0&byline=0&portrait=0" 
-                    autoplay="false" width="75%"
+                    autoplay="false"
                     frameborder="0" 
                     allowfullscreen="allowfullscreen">
-                </iframe>
+                  </iframe>
+                </div>
             </div>
         </div>
       </div>
     </section>
-    <!--Faculity member-->
+    <!--Slogan--> 
+    <section id="feature-p">
+      <div class="container">
+        <div class="row">
+              <p class="cta-2-txt">
+Dramatically enhancing the experiences of both patients and professionals through the heart, science and business of compassion.</p>
+              <p class="cta-2-txt">Contact us at 310-261-3823
+              </p>
+             </div>   
+            </div>
+        </div>
+      </div>
+    </section>
+    <!--About-->
     <section id="about" class="section-padding">
       <div class="container">
         <div class="row">
@@ -171,6 +188,177 @@
       </div>
     </section>
     <!--/ Cta-->
+    <!--Programs-->
+    <section id="programs" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="header-section text-center">
+            <h2>Programs</h2>
+            <p>Click on program title for a full description</p>
+            <hr class="bottom-line">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course01.jpg" class="img-responsive">
+              <figcaption>
+                  <h3>The Naked Truth about Compassion in Action</h3>
+                  <p>A Return to the Heart of Healing</p>
+              </figcaption>
+              <a href="#naked"></a>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course02.jpg" class="img-responsive">
+              <figcaption>
+                  <h3>Burnout Back to Balanced</h3>
+                  <p>Taking Better Care of Yourself- So You Can Take Better Care of Your Patients</p>
+              </figcaption>
+              <a href="#burnout"></a>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course03.jpg" class="img-responsive">
+              <figcaption>
+                  <h3>Siemens Innovations Conference</h3>
+                  <p></p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course04.jpg" class="img-responsive">
+              <figcaption>
+                  <h3>John Hopkins Staff Presentation</h3>
+                  <p></p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course05.jpg" class="img-responsive">
+              <figcaption>
+                  <h3>Association for Value-Based 
+                  Cancer Care</h3>
+                  <p></p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 padleft-right">
+            <figure class="imghvr-fold-up">
+              <img src="img/course06.jpg" class="img-responsive">
+              <figcaption>
+                  <h3></h3>
+                  <p></p>
+              </figcaption>
+              <a href="#"></a>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--/ Courses-->
+    <section id="about" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <article id="naked">
+            <h2>The Naked Truth about Compassion in Action</h2>
+            <h4>A Return to the “Heart” of Healing</h4>
+            <h3>Program Description</h3>
+            <p>Compassionate care significantly improves the mental, physical and emotional well-being of both
+            patients and healthcare professionals. In this content-rich and powerful program, you will learn the
+            immense benefits of compassionate care to relieve patient suffering. The session also discusses the
+            devastating effects of care that lacks compassion. The major focus will be on six simple tools you can
+            immediately implement to dramatically enhance compassionate care. Providing compassionate care
+            to all patients all the time benefits the patient, the organization and you! Patient care will be
+            revitalized and you will feel less stressed!</p>
+           <h3>Program Objectives</h3>
+            <ol>
+              <li>Describe the benefits of compassion patient care.</li>
+              <li>Review the harmful impact of non-compassionate patient care.</li>
+              <li>Apply methods to dramatically enhance the level of compassionate patient care.</li>
+            </ol>
+            <h3>Program Outline</h3>
+            <ul>
+              <li> Benefits of compassionate patient care
+                <ul>
+                  <li>o Benefits to the patient</li>
+                  <li>o Benefits to the professional</li>
+                  <li>o Benefits to the organization</li>
+                </ul>
+              </li>
+              <li>Harmful impact of non-compassionate patient care
+                <ul>
+                  <li>o Poor patient experiences and low ratings on satisfaction surveys</li>
+                  <li>o Higher risk of errors and increased risk of malpractice claims</li>
+                  <li>o Lower overall patient health</li>
+                </ul>
+              </li>
+              <li>Strategies to dramatically enhance the level of compassionate patient care
+                <ul>
+                <li>o One act that always relieves patient suffering</li>
+                <li>o Six powerful tools</li>
+                </ul>
+              </li>
+            </ul>
+          </article>
+          <article id="burnout"> 
+            <h2>Burnout Back to Balanced</h2>
+            <h4>Taking Better Care of Yourself –
+            So You Can Take Better Care of Your Patients</h4>
+            <h3>Program Description</h3>
+                <p>Long periods of unrelenting stress with no means to alleviate the devastating effects lead emotional and physical exhaustion. However, there is hope and you can cope. Lee Tomlinson was a prototypical burned-out Type A personality, perfectionist, stressed to the max, C-level Hollywood entertainment industry studio owner and award-winning television producer. As a result of those crippling personality behaviors, Lee lost his fortune, career
+                and marriage. He believes the long-term stress damaged his health and was a major factor
+                in his diagnosis of Stage III Throat Cancer. Always a fighter, he didn’t give up. Instead he
+                stepped up and fought hard to learn from his mistakes, reinvent himself and recover all he
+                had lost and more. In this program, Lee shares powerful strategies to help you avoid the
+                destructive impact of burnout. You will not only benefit, but so will your patients, colleagues
+                and family members. Specifically, this session reviews prevention tips, the tell-tale signs of
+                burnout, and how to recover and return to an even more prosperous and fulfilling professional
+                and personal life.</p>
+            <h3>Program Objectives</h3>
+            <ol>
+              <li>Review the current data on burnout among healthcare professionals.</li>
+              <li>Describe the symptoms of burnout.</li>
+              <li>Apply strategies to prevent burnout.</li>
+            </ol>
+            <h3>Program Outline</h3>
+            <ul>
+              <li>Current data on burnout
+                <ul>
+                  <li>o Number of healthcare professionals impacted</li>
+                  <li>o Statistics on lost productivity</li>
+                  <li>o Impact on patient care</li>
+                </ul>
+              </li>
+              <li>Symptoms of burnout
+                <ul>
+                  <li>o Mental health impairment (e.g., depression, anxiety)</li>
+                  <li>o Substance abuse</li>
+                  <li>o Problems working with colleagues</li>
+                </ul>
+              </li>
+              <li>Burnout prevention strategies
+                <ul>
+                  <li>o Psychiatric help (talk therapy, pharmaceuticals)</li>
+                  <li>o Stress-reducing activities (e.g., meditation)</li>
+                  <li>o Self-care (exercise, diet)</li>
+                </ul>
+              </li>
+            </ul>
+          </article>
+</div>
+</div>
+</section>
+
     <!--work-shop-->
     <section id="work-shop" class="section-padding">
       <div class="container">
@@ -218,10 +406,10 @@
     <!--/ work-shop-->
     <!--Testimonial-->
     <section id="testimonial" class="section-padding">
-      <div class="container">
+      <div class="container" id="reviews">
         <div class="row">
           <div class="header-section text-center">
-            <h2 class="white">See What Our Customer Are Saying?</h2>
+            <h2 class="white">Rave Reviews</h2>
             <p class="white">“If you truly care about your patients, I challenge you to listen to cancer survivor and patient-care expert Lee Tomlinson who offers compassionate solutions that improve outcomes, incomes, healing, compliance, clinician burn-out, and above all patient/customer satisfaction."<br>Dean Edell, MD,<br>
                Nationally-known media personality
                </p>
@@ -245,86 +433,45 @@
         </div>
       </div>
     </section>
-    <!--/ Testimonial-->
-    <!--Courses-->
-    <section id ="courses" class="section-padding">
+    <!--Clients--> 
+<section id="clients" class="section-padding">
       <div class="container">
         <div class="row">
-          <div class="header-section text-center">
-            <h2>Courses</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem nesciunt vitae,<br> maiores, magni dolorum aliquam.</p>
-            <hr class="bottom-line">
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course01.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>Videos</h3>
-                  <p>CARE Effect Movement Founder Lee Tomlinson delivering a Powerful Videos.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course02.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>TED Talk</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course03.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>Siemens Innovations Conference</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course04.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>John Hopkins Staff Presentation</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course05.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>Association for Value-Based 
-                  Cancer Care</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course06.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>Course Name</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
+            <div class="col-sm-5">
+                <div class="header-section text-center">
+               <h4>Partial Client List</h4>
+  <ul>
+<li>Academy of Oncological Nurse Navigators</li>
+<li>Association for Value Based Cancer Care</li>
+<li>Cancer Support Community of Los Angeles</li>
+<li>Cancer Support Community of New York City</li>
+<li>Cancer Support Community of Washington, DC</li>
+<li>David Geffen UCLA Medical School</li>
+<li>Eli Lilly</li>
+<li>Glendale Adventist Hospital</li>
+<li>Johns Hopkins – Suburban Hospital</li>
+<li>Los Angeles Trade Technical College</li>
+<li>National Comprehensive Cancer Network</li>
+<li>Riverside Community Hospital</li>
+<li>Ronald Reagan UCLA Medical Center</li>
+<li>Siemens</li>
+<li>Stupid Cancer</li>
+<li>St. Joseph Hospital (Orange, CA)</li>
+  </ul>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <h3 id="feature-h">Logos Here
+                </div>
+            </div>
         </div>
       </div>
     </section>
-    <!--/ Courses-->
-    <!--Pricing-->
+
+    <!--/ Clients--> 
+    <!--/ Testimonial-->
+
+    <!--Pricing
     <section id ="pricing" class="section-padding">
       <div class="container">
         <div class="row">
@@ -335,13 +482,13 @@
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="price-table">
-              <!-- Plan  -->
+              <!-- Plan  
               <div class="pricing-head">
                 <h4>Monthly Plan</h4>
                 <span class="fa fa-usd curency"></span> <span class="amount">200</span> 
               </div>
           
-              <!-- Plean Detail -->
+              <!-- Plean Detail 
               <div class="price-in mart-15">
                 <a href="#" class="btn btn-bg green btn-block">PURCHACE</a> 
               </div>
@@ -349,13 +496,13 @@
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="price-table">
-              <!-- Plan  -->
+              <!-- Plan  
               <div class="pricing-head">
                 <h4>Quarterly Plan</h4>
                 <span class="fa fa-usd curency"></span> <span class="amount">800</span> 
               </div>
           
-              <!-- Plean Detail -->
+              <!-- Plean Detail 
               <div class="price-in mart-15">
                 <a href="#" class="btn btn-bg yellow btn-block">PURCHACE</a> 
               </div>
@@ -363,13 +510,13 @@
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="price-table">
-              <!-- Plan  -->
+              <!-- Plan  
               <div class="pricing-head">
                 <h4>Year Plan</h4>
                 <span class="fa fa-usd curency"></span> <span class="amount">1200</span> 
               </div>
           
-              <!-- Plean Detail -->
+              <!-- Plean Detail 
               <div class="price-in mart-15">
                 <a href="#" class="btn btn-bg red btn-block">PURCHACE</a> 
               </div>
@@ -379,13 +526,101 @@
       </div>
     </section>
     <!--/ Pricing-->
+
+        <!--VIDEO--> 
+    <section class="section-padding">
+
+      <div class="container">
+                  <h2 class="center-text">Videos</h2>
+
+        <div class="row video-row">
+            <div class="col-sm-5">
+                <div class="header-section text-right">
+                    <p id="feature-p">TedX Talk (at Eli Lilly Headquarters)
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
+                    title="0" src="https://player.vimeo.com/video/172051981?color=ffffff&title=0&byline=0&portrait=0" 
+                    autoplay="false"
+                    frameborder="0" 
+                    allowfullscreen="allowfullscreen">
+                  </iframe>
+                </div>
+            </div>
+        </div>
+      </div>
+            <div class="container video-row">
+        <div class="row ">
+            <div class="col-sm-5">
+                <div class="header-section text-right">
+                    <p id="feature-p">Siemens Innovations Conference
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
+                    title="0" src="https://player.vimeo.com/video/165245913?color=ffffff&title=0&byline=0&portrait=0" 
+                    autoplay="false"
+                    frameborder="0" 
+                    allowfullscreen="allowfullscreen">
+                  </iframe>
+                </div>
+            </div>
+        </div>
+      </div>
+                  <div class="container">
+        <div class="row video-row">
+            <div class="col-sm-5">
+                <div class="header-section text-right">
+                    <p id="feature-p">John Hopkins Staff Presentation
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
+                    title="0" src="https://player.vimeo.com/video/129313522?color=ffffff&title=0&byline=0&portrait=0" 
+                    autoplay="false"
+                    frameborder="0" 
+                    allowfullscreen="allowfullscreen">
+                  </iframe>
+                </div>
+            </div>
+        </div>
+      </div>
+                       <div class="container">
+        <div class="row video-row">
+            <div class="col-sm-5">
+                <div class="header-section text-right">
+                    <p id="feature-p">Association for Value-Based
+Cancer Care
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
+                    title="0" src="https://player.vimeo.com/video/95933287?color=ffffff&title=0&byline=0&portrait=0" 
+                    autoplay="false"
+                    frameborder="0" 
+                    allowfullscreen="allowfullscreen">
+                  </iframe>
+                </div>
+            </div>
+        </div>
+      </div>
+    </section>
     <!--Contact-->
     <section id ="contact" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="header-section text-center">
             <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem nesciunt vitae,<br> maiores, magni dolorum aliquam.</p>
+            <p></p>
             <hr class="bottom-line">
           </div>
           <div id="sendmessage">Your message has been sent. Thank you!</div>
