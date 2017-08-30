@@ -27,8 +27,21 @@
 #about {
     background-color: rgb(247, 247, 247);
 }
+
+#about h3 {
+	font-size: 22px;
+}
 .about_lee {
     font-size: 9.8pt;
 }
 
+#client-list {
+	padding-left:0; 
+}
 
+
+@media (min-width: 769px) and (max-width: 1200px) {
+    .section-padding {
+        padding:140px 0 60px 0;
+    }
+}

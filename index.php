@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>The C.A.R.E. Effect</title>
+    <title>The C.A.R.E. Effect Movement</title>
     <meta name="description" content="The CARE Effect - Lee Tomlinson">
     <meta name="keywords" content="CARE Effect - Lee Tomlinson">
     
@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-         <a class="navbar-brand" href="index.php">C.A.R.E.<span> Effect</span></a>
+         <a class="navbar-brand" href="index.php"><span> The</span> C.A.R.E.<span> Effect Movement</span></a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
@@ -45,12 +45,13 @@
     </nav>
     <!--/ Navigation bar-->
     <!--Feature-->
-    <section class="section-padding">
+    <section id="frontpage" class="section-padding">
       <div class="container">
         <div class="row">
             <div class="col-sm-5">
                 <div class="header-section text-center">
-                    <p id="feature-p">Combining a lifetime of patient experiences and customer service expertise, Lee Tomlinson focuses his life’s work on bringing compassionate care to healthcare. Lee has spent much of his life as a perpetual patient with the most dramatic experience being a diagnosis of Stage 3 Throat Cancer. He found a lack of compassion care, which led to severe depression and thoughts of suicide. However, thanks to a deeply kind physician, he changed his perspective.  With renewed vigor, he created “The C.A.R.E. Effect Movement” and now travels nationally spreading his message of compassionate care to help patients, healthcare organizations and professionals.
+                    <p id="feature-p" style="font-size:125%">
+Advancing the art, science and business of compassion to dramatically improve the lives of patients, medical professionals and the profitability of organizations in which their lives intersect. 
                     </p>
                 </div>
             </div>
@@ -67,19 +68,6 @@
                     allowfullscreen="allowfullscreen">
                   </iframe>
                 </div>
-            </div>
-        </div>
-      </div>
-    </section>
-    <!--Slogan--> 
-    <section id="feature-p">
-      <div class="container">
-        <div class="row">
-              <p class="cta-2-txt">
-Dramatically enhancing the experiences of both patients and professionals through the heart, science and business of compassion.</p>
-              <p class="cta-2-txt">Contact us at 310-261-3823
-              </p>
-             </div>   
             </div>
         </div>
       </div>
@@ -203,7 +191,7 @@ Dramatically enhancing the experiences of both patients and professionals throug
         <div class="row">
           <div class="col-md-4 col-sm-6 padleft-right">
             <figure class="imghvr-fold-up">
-              <img src="img/course01.jpg" class="img-responsive">
+              <img src="img/whisper.jpg" class="img-responsive">
               <figcaption>
                   <h3>The Naked Truth about Compassion in Action</h3>
                   <p>A Return to the Heart of Healing</p>
@@ -213,7 +201,7 @@ Dramatically enhancing the experiences of both patients and professionals throug
           </div>
           <div class="col-md-4 col-sm-6 padleft-right">
             <figure class="imghvr-fold-up">
-              <img src="img/course02.jpg" class="img-responsive">
+              <img src="img/lonely-unit.jpg" class="img-responsive">
               <figcaption>
                   <h3>Burnout Back to Balanced</h3>
                   <p>Taking Better Care of Yourself- So You Can Take Better Care of Your Patients</p>
@@ -223,40 +211,9 @@ Dramatically enhancing the experiences of both patients and professionals throug
           </div>
           <div class="col-md-4 col-sm-6 padleft-right">
             <figure class="imghvr-fold-up">
-              <img src="img/course03.jpg" class="img-responsive">
+              <img src="img/surgeons.jpg" class="img-responsive">
               <figcaption>
-                  <h3>Siemens Innovations Conference</h3>
-                  <p></p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course04.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>John Hopkins Staff Presentation</h3>
-                  <p></p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course05.jpg" class="img-responsive">
-              <figcaption>
-                  <h3>Association for Value-Based 
-                  Cancer Care</h3>
-                  <p></p>
-              </figcaption>
-              <a href="#"></a>
-            </figure>
-          </div>
-          <div class="col-md-4 col-sm-6 padleft-right">
-            <figure class="imghvr-fold-up">
-              <img src="img/course06.jpg" class="img-responsive">
-              <figcaption>
-                  <h3></h3>
+                  <h3>And More . . .</h3>
                   <p></p>
               </figcaption>
               <a href="#"></a>
@@ -266,9 +223,10 @@ Dramatically enhancing the experiences of both patients and professionals throug
       </div>
     </section>
     <!--/ Courses-->
-    <section id="about" class="section-padding">
+    <section id="about" class="features section-padding">
       <div class="container">
         <div class="row">
+          <div class="col-md-8">
           <article id="naked">
             <h2>The Naked Truth about Compassion in Action</h2>
             <h4>A Return to the “Heart” of Healing</h4>
@@ -280,6 +238,14 @@ Dramatically enhancing the experiences of both patients and professionals throug
             immediately implement to dramatically enhance compassionate care. Providing compassionate care
             to all patients all the time benefits the patient, the organization and you! Patient care will be
             revitalized and you will feel less stressed!</p>
+                <div class="vimeo-container">
+                  <iframe id="vid" class="center-block"
+                    title="0" src="https://player.vimeo.com/video/165245913?color=ffffff&title=0&byline=0&portrait=0" 
+                    autoplay="false"
+                    frameborder="0" 
+                    allowfullscreen="allowfullscreen">
+                  </iframe>
+                </div>
            <h3>Program Objectives</h3>
             <ol>
               <li>Describe the benefits of compassion patient care.</li>
@@ -310,6 +276,9 @@ Dramatically enhancing the experiences of both patients and professionals throug
               </li>
             </ul>
           </article>
+          </div>
+                    <div class="col-md-8">
+
           <article id="burnout"> 
             <h2>Burnout Back to Balanced</h2>
             <h4>Taking Better Care of Yourself –
@@ -355,6 +324,8 @@ Dramatically enhancing the experiences of both patients and professionals throug
               </li>
             </ul>
           </article>
+                    </div>
+
 </div>
 </div>
 </section>
@@ -410,7 +381,7 @@ Dramatically enhancing the experiences of both patients and professionals throug
         <div class="row">
           <div class="header-section text-center">
             <h2 class="white">Rave Reviews</h2>
-            <p class="white">“If you truly care about your patients, I challenge you to listen to cancer survivor and patient-care expert Lee Tomlinson who offers compassionate solutions that improve outcomes, incomes, healing, compliance, clinician burn-out, and above all patient/customer satisfaction."<br>Dean Edell, MD,<br>
+            <p class="white text-par">“If you truly care about your patients, I challenge you to listen to cancer survivor and patient-care expert Lee Tomlinson who offers compassionate solutions that improve outcomes, incomes, healing, compliance, clinician burn-out, and above all patient/customer satisfaction."<br>Dean Edell, MD,<br>
                Nationally-known media personality
                </p>
             <hr class="bottom-line bg-white">
@@ -428,7 +399,17 @@ Dramatically enhancing the experiences of both patients and professionals throug
               <p class="text-name">-- Rich Israel<br>
                   Chapter of National MS Society
                   </p>
-            </div>
+                                    </div><br>
+                                    </div>
+                                              <hr class="bottom-line bg-white">
+
+          <div class="header-section text-center">
+
+            <p class="white text-par">“If you truly care about your patients, I challenge you to listen to cancer survivor and patient-care expert Lee Tomlinson who offers compassionate solutions that improve outcomes, incomes, healing, compliance, clinician burn-out, and above all patient/customer satisfaction."<br>Dean Edell, MD,<br>
+               Nationally-known media personality
+               </p>
+</div>
+            
           </div>
         </div>
       </div>
@@ -437,10 +418,63 @@ Dramatically enhancing the experiences of both patients and professionals throug
 <section id="clients" class="section-padding">
       <div class="container">
         <div class="row">
-            <div class="col-sm-5">
-                <div class="header-section text-center">
-               <h4>Partial Client List</h4>
-  <ul>
+          <div class="header-section text-center">
+              <h2>Partial Client List</h2>
+            </div>
+           
+            </div>
+            <div>
+                <h3 id="feature-h">    <div class="container">
+<div class="row">
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+
+    <div class="item active">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/Adventist_Health_Glendale.png" alt="Adventist Health">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/AONN.jpg" alt="Academy of Oncological Nurse Navigators">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/csc.png" alt="Cancer Support Community">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/DGSOM_logo_BW.png" alt="David Geffen School of Medicine">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/JOHNSHOPKINS.jpg" alt="Johns Hopkins Suburban Hospital">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/LATCC.png" alt="Los Angeles Trade Technical College">
+    </div>
+    
+    <div class="item">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/LILLY.jpg" alt="Eli Lilly">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/nccn.jpg" alt="National Comprehensive Cancer Network">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/riverside-community.png" alt="Riverside Community Hospital">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/saint-joseph-hospital-orange-county-coldea-productions-video-production1.png
+" alt="St. Joseph Hospital - Orange, CA">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/Siemens-small-logo.png
+" alt="Siemens">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/STUPID-CANCER.jpg" alt="Stupid Cancer">
+    </div>
+    
+    <div class="item">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/UCLA-HEALTH.png" alt="UCLA Health">
+      <img class="col-md-2 col-sm-2 col-xs-4" src="img/logos/VBCC.png" alt="Association of Value Based Cancer Care">
+    </div>
+      </div>
+
+
+ <div align="center" style="margin-top:20px;">
+    <!-- Controls -->
+          <a class="left" href="#carousel-example-generic" data-slide="prev">
+            <span ><<</span>
+          </a>
+          <a class="right" href="#carousel-example-generic" data-slide="next">
+            <span>>></span>
+          </a>
+    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+     
+             <div class="row">
+    <div class="text-center">
+  <ul class="text-center" id="client-list">
 <li>Academy of Oncological Nurse Navigators</li>
 <li>Association for Value Based Cancer Care</li>
 <li>Cancer Support Community of Los Angeles</li>
@@ -458,14 +492,9 @@ Dramatically enhancing the experiences of both patients and professionals throug
 <li>Stupid Cancer</li>
 <li>St. Joseph Hospital (Orange, CA)</li>
   </ul>
+  </div>
                 </div>
-            </div>
-            <div class="col-sm-7">
-                <h3 id="feature-h">Logos Here
-                </div>
-            </div>
-        </div>
-      </div>
+                 </div>
     </section>
 
     <!--/ Clients--> 
@@ -527,8 +556,8 @@ Dramatically enhancing the experiences of both patients and professionals throug
     </section>
     <!--/ Pricing-->
 
-        <!--VIDEO--> 
-    <section class="section-padding">
+        <!--VIDEO
+    <section id="videos" class="section-padding">
 
       <div class="container">
                   <h2 class="center-text">Videos</h2>
@@ -552,7 +581,7 @@ Dramatically enhancing the experiences of both patients and professionals throug
             </div>
         </div>
       </div>
-            <div class="container video-row">
+      <div class="container video-row">
         <div class="row ">
             <div class="col-sm-5">
                 <div class="header-section text-right">
@@ -614,6 +643,7 @@ Cancer Care
         </div>
       </div>
     </section>
+    --> 
     <!--Contact-->
     <section id ="contact" class="section-padding">
       <div class="container">
